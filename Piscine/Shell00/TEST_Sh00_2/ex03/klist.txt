@@ -1,0 +1,5 @@
+Credentials cache: API:0F8FB935-2D12-471B-806A-FF1DA370DA66
+        Principal: dokwon@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb 15 21:57:18 2021  Feb 16 07:57:18 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
